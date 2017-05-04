@@ -24,7 +24,7 @@ According to the graphs in diagonal, we find that students’ performance level 
 School progress was designed to help parents, teachers, principals, and others understand how well schools are doing.
 ## Possible correlation on income and students’ academic performance
 ![correlation](correlation.jpg )
-There is a relatively high positive correlation between income and academic performance of the districts, which means ,in general, with higher income invested, there comes better academic performance of students.
+There is a relatively high positive correlation between income and academic performance of the districts, which means ,in general, with higher income, there comes better academic performance of students.
 
 
 

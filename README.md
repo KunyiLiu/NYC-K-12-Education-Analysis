@@ -1,6 +1,6 @@
 # NYC-K-12-Education-Analysis
 As follows is some interesting analysis extracted from the complete version : 
-[complete version](https://github.com/KunyiLiu/NYC-K-12-Education-Analysis/NYC-K-12-Education-Analysis.nb.html)
+[complete version](https://github.com/KunyiLiu/NYC-K-12-Education-Analysis/blob/master/eda_square.nb.html)
 ## Introduction
 In order to figure out the education condition in NYC and give some advice to policy makers and students and their parents on school selection and self-improvement, we expect to analyze some local schools’ and students’ datasets.
 We concentrated on analyses of K-12 and senior education. We divided our assignment into three part:  
